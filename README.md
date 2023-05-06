@@ -1,4 +1,4 @@
-# co6d140378c2d973e5896b23d
+Cookie Popup project
 
 Quick start:
 
@@ -6,10 +6,3 @@ Quick start:
 $ npm install
 $ npm start
 ````
-
-Head over to https://vitejs.dev/ to learn more about using vite
-
-
-Scrimba Cookie Popup Project.
-
-Saved for personal purposes
